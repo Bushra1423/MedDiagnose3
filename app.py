@@ -4,7 +4,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 import seaborn as sns
 import os
-#import google.generativeai as genai
+import google.generativeai as genai
 from dotenv import load_dotenv
 import tempfile  # To handle temporary file creation
 from PIL import Image
