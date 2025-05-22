@@ -4,4 +4,4 @@ matplotlib
 seaborn
 google.generativeai
 tensorflow
-keras
+
